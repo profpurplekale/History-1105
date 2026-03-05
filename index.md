@@ -2,7 +2,7 @@
 title: HIST 1105 Spring 2026
 layout: base
 date: 2025-10-21
-header-image: "/assets/images/sw-table.jpg"
+header-image: "/assets/images/Welcome ot New Mexico imag.jpeg"
 header-title: Making New Mexico History
 header-subtitle: Student Final Projects
 header-position: 35% center
