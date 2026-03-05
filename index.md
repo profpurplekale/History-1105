@@ -1,18 +1,16 @@
 ---
-title: "Class Project Template"
+title: HIST 1105 Spring 2026
 layout: base
 date: 2025-10-21
 header-image: "/assets/images/sw-table.jpg"
-header-title: Southwestern Food
-header-subtitle: a class project template
+header-title: Making New Mexico History
+header-subtitle: Student Final Projects
 header-position: 35% center
 ---
 
-# Your Class Project Name Goes Here
+# The Asian American and Pacific Islander Experience in New Mexico 
 
-This is your class project site, built with the [Xanthan framework](https://xanthan-web.github.io/xanthan/). Everything you see here is a placeholder — the title above, the essay topics, the images. Your course topic and your students' writing go here.
-
-To get a sense of what a finished project can look like, this template includes three sample essays on Southwest food history, generated with AI as stand-ins for real student work. Browse them to see how essays can use images, pull quotes, and scroll-driven backgrounds. Then start replacing them with your own material.
+Asian American and Pacific Islanders have contributed to United States history from as early as the 17th century.  HIST 1105 Making History: The Asian American and Pacific Islander Experience  invited students to explore how AAPI experiences are the result of changing global relations, the development of the United States as a nation, and subsequent U.S. relations with Asian and Pacific Island nations and diasporic commmunities. At the same time, students learned about historical interpretation and the choices historians make in documenting U.S. history. The final projects on this website reflect students' own research in New Mexico newspapers about AAPI experiences, the questions they asked, and the answers they found. Students also learned how to build their own webpages based on the resources provided by Jonathan Seyfried and the Amaranth Lab. The final projects here reflect the process of learning what it means to think historically and present stories in creative ways.
 
 **Ready to begin?** Open `index.md` in your editor and change the title and this introduction. That's your first edit. The [documentation](docs/) covers everything else — how to add pages, configure navigation, set up student contributors, and customize the look.
 
