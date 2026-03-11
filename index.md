@@ -12,10 +12,6 @@ header-position: 35% center
 
 Asian American and Pacific Islanders have contributed to United States history from as early as the 17th century.  HIST 1105 Making History: The Asian American and Pacific Islander Experience  invited students to explore how AAPI experiences are the result of changing global relations, the development of the United States as a nation, and subsequent U.S. relations with Asian and Pacific Island nations and diasporic commmunities. At the same time, students learned about historical interpretation and the choices historians make in documenting U.S. history. The final projects on this website reflect students' own research in New Mexico newspapers about AAPI experiences, the questions they asked, and the answers they found. Students also learned how to build their own webpages based on the resources provided by Jonathan Seyfried and the Amaranth Lab. The final projects here reflect the process of learning what it means to think historically and present stories in creative ways.
 
-**Ready to begin?** Open `index.md` in your editor and change the title and this introduction. That's your first edit. The [documentation](docs/) covers everything else — how to add pages, configure navigation, set up student contributors, and customize the look.
-
-The card grid below links to the sample essays. The info on these cards come from the essay pages themselves. As students publish their essaysm, these will showcase students' work as the project develops.
-
 {% assign all_pages = site.pages %}
 {% assign cards = all_pages | where_exp: "p", "p.path contains 'essays/'" | where_exp: "p", "p.path != 'essays/index.md'" %}
 
