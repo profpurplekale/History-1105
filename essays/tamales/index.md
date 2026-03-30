@@ -11,10 +11,8 @@ summary: One sentence summary
 Introduce the reader to the key events, issues, and actors (WHEN WHERE WHO WHAT) that inform your research project. Try to use accessible language that a high schooler would understand. STATE YOUR ARGUMENT ABOUT THIS EVENT/PERSON/ISSUE being significant for AAPI and New Mexico History. Remember that you will connect all the remaining web page content to this argument.  
 100-150 words
 
-
 ## Subheader 1
 
-{% capture %}
 150-200 words:  Explain why this event was newsworthy, drawing upon specific language or descriptions in the primary sources as citing any secondary sources to support your interpretation about why this event was newsworthy at the time it took place. 
 {% endcapture %}
 
@@ -28,7 +26,6 @@ Introduce the reader to the key events, issues, and actors (WHEN WHERE WHO WHAT)
 {% include typography/pullquote.html text="\"You may divide your text by inserting a direct quote from a primary or secondary source here that highlights why this event is newsworthy\"" %}
 
 If you inserted a direct quote, you may continue your text for this section here. 
-
 
 ## Subheader 2
 
@@ -46,7 +43,6 @@ I'm not really sure why we are capturing the text here.
   text=tamales_labor_text
 %}
 
-
 ## Subheader 3 
 
 USe this section to explain how this event relates to New Mexico history? What does this event tell us about New Mexico (or the specific city) in relation to other territories, states, or local communities? 
@@ -61,9 +57,6 @@ If you inserted a direct quote, you may complete the rest of your text for secti
 
 ## Concluding Subheader 4: Why is this event historically signficant?  What does it teach us? What further research questions does it raise? 
 
-
 Insert your text here. 
-
-
 
 **Further information:** You may highlight key sources that provide more information for readers. This is where you also may provide links to other websites that relate to the topic. Be sure to explain why these links might be of interest to the reader in relation to your topic. 
