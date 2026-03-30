@@ -21,7 +21,7 @@ Introduce the reader to the key events, issues, and actors (WHEN WHERE WHO WHAT)
   image-path="images/Raton_let_the_boycotters_kill_them.jpg"
   image-position="right"
   image-width="48%"
-  caption="The Silver City Enterprise editor questioned why some Raton residents would protect the Chinese." [Source: Sierra County Advocate](January 23, 1886, 2.)
+  caption="The Silver City Enterprise editor questioned why some Raton residents would protect the Chinese.[Source: Sierra County Advocate](January 23, 1886, 2.)"
 %}
 
 {% include typography/pullquote.html text="\"You may divide your text by inserting a direct quote from a primary or secondary source here that highlights why this event is newsworthy\"" %}
