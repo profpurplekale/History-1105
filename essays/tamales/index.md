@@ -39,7 +39,7 @@ I'm not really sure why we are capturing the text here.
 {% include images/figure-wrap.html
   image-path="images/Concerns_Raton.jpg"
   image-position="left"
-  image-width="60%"
+  image-width="75%"
   caption="Insert your caption for Image B here. [Source: Insert brief source here, e.g. Las Vegas Gazette] (Month day, year, page number.)"
   text=Removal_Chinese 
 %}
