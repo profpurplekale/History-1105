@@ -18,10 +18,10 @@ Introduce the reader to the key events, issues, and actors (WHEN WHERE WHO WHAT)
 
 
 {% include images/figure-wrap.html
-  image-path="images/figure_1.jpg"
+  image-path="images/Raton_let_the_boycotters_kill_them.jpg"
   image-position="right"
   image-width="48%"
-  caption="Caption for Image A."
+  caption="The Silver City Enterprise editorial questioned why some Raton residents would protect the Chinese." [Source: Sierra County Advocate, January 23, 1886, 2.]
 %}
 
 {% include typography/pullquote.html text="\"You may divide your text by inserting a direct quote from a primary or secondary source here that highlights why this event is newsworthy\"" %}
