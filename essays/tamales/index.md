@@ -24,9 +24,9 @@ Introduce the reader to the key events, issues, and actors (WHEN WHERE WHO WHAT)
   caption="The Silver City Enterprise editor questioned why some Raton residents would protect the Chinese.[Source: Sierra County Advocate](January 23, 1886, 2.)"
 %}
 
-{% include typography/pullquote.html text="\"You may divide your text by inserting a direct quote from a primary or secondary source here that highlights why this event is newsworthy\"" %}
+{% include typography/pullquote.html text="\"It is a shame for the people of Raton to "protect" the Chinese. They ought to stand aside and let the boycotters kill them...\""%}
 
-If you inserted a direct quote, you may continue your text for this section here. Otherwise, leave blank.  
+You may divide your text by inserting a pull from a primary or secondary source here that highlights why this event is newsworthy, as noted with the highlighted quote from the newspaper image. If you do not wish to break up your text with a direct quote you can delete teh pull quote. 
 
 ## Subheader 2
 
