@@ -19,8 +19,8 @@ Introduce the reader to the key events, issues, and actors (WHEN WHERE WHO WHAT)
 
 {% include images/figure-wrap.html
   image-path="images/Raton_let_the_boycotters_kill_them.jpg"
-  image-position="center"
-  image-width="48%"
+  image-position="right"
+  image-width="50%"
   caption="The Silver City Enterprise editor questioned why some Raton residents would protect the Chinese.[Source: Sierra County Advocate](January 23, 1886, 2.)"
 %}
 
@@ -46,10 +46,16 @@ The coding for this section positions this text in relation to the image. *The L
 
 ## Subheader 3 
 
-Use this section to explain how this event relates to New Mexico history? What does this event tell us about New Mexico (or the specific city) in relation to other territories, states, or local communities? 
+Use this section to explain how this event relates to New Mexico history. What does this event tell us about New Mexico (or the specific city) in relation to other territories, states, or local communities? 
 
-{% assign images_list = "images/carousel_1.jpg,images/carousel_2.jpg,images/carousel_3.jpg" | split: ',' %}
-{% include images/carousel.html id="tamale-types" images=images_list %}
+{% include images/figure-wrap.html
+  image-path="images/Chinese_leave_Raton.jpg"
+  image-position="center"
+  image-width="70%"
+  caption="Insert your caption for Image C here. At least a few Chinese settlers left not only Raton but the state of New Mexico in response to pressure from the Knights of Labor. [Source: Las Vegas Gazette] (December 13, 1882, 4.)"
+  text=Chinese_leave_Raton_text 
+%}
+
 
 
 {% include typography/pullquote.html text="\"The most important thing about tamales isn't the recipe. It's the hands that made them. Whose recipe? Whose tradition? Whose labor? These are the questions that matter.\"" %}
