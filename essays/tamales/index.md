@@ -27,7 +27,7 @@ Introduce the reader to the key events, issues, and actors (WHEN WHERE WHO WHAT)
 
 {% include typography/pullquote.html text="\"You may divide your text by inserting a direct quote from a primary or secondary source here that highlights why this event is newsworthy\"" %}
 
-
+If you inserted a direct quote, you may continue your text for this section here. 
 
 
 ## Subheader 2
@@ -49,7 +49,7 @@ I'm not really sure why we are capturing the text here.
 
 ## Subheader 3 
 
-How does this event relate to New Mexico history? What does this event tell us about New Mexico (or the specific city) in relation to other territories, states, or local communities? 
+USe this section to explain how this event relates to New Mexico history? What does this event tell us about New Mexico (or the specific city) in relation to other territories, states, or local communities? 
 
 {% assign images_list = "images/carousel_1.jpg,images/carousel_2.jpg,images/carousel_3.jpg" | split: ',' %}
 {% include images/carousel.html id="tamale-types" images=images_list %}
@@ -57,6 +57,7 @@ How does this event relate to New Mexico history? What does this event tell us a
 
 {% include typography/pullquote.html text="\"The most important thing about tamales isn't the recipe. It's the hands that made them. Whose recipe? Whose tradition? Whose labor? These are the questions that matter.\"" %}
 
+If you inserted a direct quote, you may complete the rest of your text for section 3 here. 
 
 ## Concluding Subheader 4: Why is this event historically signficant?  What does it teach us? What further research questions does it raise? 
 
