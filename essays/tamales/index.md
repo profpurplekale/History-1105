@@ -25,9 +25,9 @@ Introduce the reader to the key events, issues, and actors (WHEN WHERE WHO WHAT)
   caption="Caption for Image A"
 %}
 
-{% include typography/pullquote.html text="\"You may divide your text by inserting a direct quote from a primary or seconary source here that highlights why this event is newsworthy\"" %}
+{% include typography/pullquote.html text="\"You may divide your text by inserting a direct quote from a primary or secondary source here that highlights why this event is newsworthy\"" %}
 
-When Spanish colonizers arrived, they found tamales already so established that they were impossible to dislodge. Unlike some indigenous foods that were suppressed or transformed beyond recognition, tamales persisted. They adapted to new ingredients (wheat flour, pork from Spanish livestock), but the core remained.
+
 
 
 ## Subheader 2
@@ -54,14 +54,6 @@ How does this event relate to New Mexico history? What does this event tell us a
 {% assign images_list = "images/carousel_1.jpg,images/carousel_2.jpg,images/carousel_3.jpg" | split: ',' %}
 {% include images/carousel.html id="tamale-types" images=images_list %}
 
-**The regional variations tell stories:**
-- Oaxacan tamales: wrapped in banana leaves, often with complex mole sauces
-- Mexican tamales: filled with rajas, cheese, olives, or traditional pork
-- New Mexican tamales: often made with green chile, reflecting regional chile obsession
-- Sweet tamales: made with sugar, cinnamon, raisins—served for holidays
-- Neighboring country variants: Guatemala, El Salvador, Costa Rica all have their own versions
-
-Each reflects local ingredients, local tastes, local history. A tamale tells you where it's from.
 
 {% include typography/pullquote.html text="\"The most important thing about tamales isn't the recipe. It's the hands that made them. Whose recipe? Whose tradition? Whose labor? These are the questions that matter.\"" %}
 
@@ -72,6 +64,5 @@ Each reflects local ingredients, local tastes, local history. A tamale tells you
 Insert your text here. 
 
 
----
 
 **Further information:** You may highlight key sources that provide more information for readers. This is where you also may provide links to other websites that relate to the topic. Be sure to explain why these links might be of interest to the reader in relation to your topic. 
