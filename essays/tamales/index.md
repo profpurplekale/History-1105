@@ -33,13 +33,13 @@ You may divide your text by inserting a pull from a primary or secondary source 
 Here's why this event relates to Asian American and Pacific Islander (AAPI) history: Insert your text that explains how this specific event relates to to the history of the ethnic group AND AAPI history. 100-150 words 
 
 {% capture Removal_Chinese_text %}
-I'm not really sure why we are capturing the text here. 
+The coding for this section positions this text in relation to the image. *The Las Vegas Gazette* expressed confidence that the town of Raton will be able to succesfully remove Chinese settlers without violence on the part of the Knights of Labor.  
 {% endcapture %}
 
 {% include images/figure-wrap.html
   image-path="images/Concerns_Raton.jpg"
   image-position="left"
-  image-width="75%"
+  image-width="70%"
   caption="Insert your caption for Image B here. [Source: Insert brief source here, e.g. Las Vegas Gazette] (Month day, year, page number.)"
   text=Removal_Chinese 
 %}
