@@ -1,9 +1,9 @@
 ---
-title: "Nachos: The Invented Tradition"
+title: "Student Page: Insert your title here and your name"
 layout: scrollstory
 header-image: images/figure_1.jpg
 thumbnail: images/figure_1.jpg
-summary: From border cafe to game-day essential—the brief, contested history of America's most democratic snack.
+summary: Write 1 sentence summary about your topic here 
 ---
 
 # Nachos: The Invented Tradition
