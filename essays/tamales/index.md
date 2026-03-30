@@ -2,8 +2,8 @@
 title: "Title of HIS 1105 project"
 author: "Please type your name here"
 layout: scrollstory
-header-image: images/figure_1.jpg
-thumbnail: images/figure_1.jpg
+header-image: images/Raton 1882.jpg
+thumbnail: images/Raton 1882.jpg
 summary: One sentence summary of your project 
 ---
 
