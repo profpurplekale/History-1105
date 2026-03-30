@@ -26,7 +26,7 @@ Introduce the reader to the key events, issues, and actors (WHEN WHERE WHO WHAT)
 
 {% include typography/pullquote.html text="\"You may divide your text by inserting a direct quote from a primary or secondary source here that highlights why this event is newsworthy\"" %}
 
-If you inserted a direct quote, you may continue your text for this section here. 
+If you inserted a direct quote, you may continue your text for this section here. Otherwise, leave blank.  
 
 ## Subheader 2
 
