@@ -41,7 +41,7 @@ The coding for this section positions this text in relation to the image. *The L
   image-position="left"
   image-width="70%"
   caption="Insert your caption for Image B here. [Source: Insert brief source here, e.g. Las Vegas Gazette] (Month day, year, page number.)"
-  text=Removal_Chinese 
+  text=Removal_Chinese_text 
 %}
 
 ## Subheader 3 
