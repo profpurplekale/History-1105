@@ -1,9 +1,10 @@
 ---
 title: "Title of HIS 1105 project"
+author: "Please type your name here"
 layout: scrollstory
 header-image: images/figure_1.jpg
 thumbnail: images/figure_1.jpg
-summary: One sentence summary 
+summary: One sentence summary of your project 
 ---
 
 # Title of Project
@@ -14,13 +15,13 @@ Introduce the reader to the key events, issues, and actors (WHEN WHERE WHO WHAT)
 ## Subheader 1
 
 150-200 words:  Explain why this event was newsworthy, drawing upon specific language or descriptions in the primary sources as citing any secondary sources to support your interpretation about why this event was newsworthy at the time it took place. 
-{% endcapture %}
+
 
 {% include images/figure-wrap.html
   image-path="images/figure_1.jpg"
   image-position="right"
   image-width="48%"
-  caption="Caption for Image A"
+  caption="Caption for Image A."
 %}
 
 {% include typography/pullquote.html text="\"You may divide your text by inserting a direct quote from a primary or secondary source here that highlights why this event is newsworthy\"" %}
@@ -45,7 +46,7 @@ I'm not really sure why we are capturing the text here.
 
 ## Subheader 3 
 
-USe this section to explain how this event relates to New Mexico history? What does this event tell us about New Mexico (or the specific city) in relation to other territories, states, or local communities? 
+Use this section to explain how this event relates to New Mexico history? What does this event tell us about New Mexico (or the specific city) in relation to other territories, states, or local communities? 
 
 {% assign images_list = "images/carousel_1.jpg,images/carousel_2.jpg,images/carousel_3.jpg" | split: ',' %}
 {% include images/carousel.html id="tamale-types" images=images_list %}
@@ -55,8 +56,8 @@ USe this section to explain how this event relates to New Mexico history? What d
 
 If you inserted a direct quote, you may complete the rest of your text for section 3 here. 
 
-## Concluding Subheader 4: Why is this event historically signficant?  What does it teach us? What further research questions does it raise? 
+## Concluding Subheader 4:
 
-Insert your text here. 
+Insert your text here.  Why is this event historically signficant?  What does it teach us? What further research questions does it raise? 
 
 **Further information:** You may highlight key sources that provide more information for readers. This is where you also may provide links to other websites that relate to the topic. Be sure to explain why these links might be of interest to the reader in relation to your topic. 
