@@ -32,16 +32,16 @@ You may divide your text by inserting a pull from a primary or secondary source 
 
 Here's why this event relates to Asian American and Pacific Islander (AAPI) history: Insert your text that explains how this specific event relates to to the history of the ethnic group AND AAPI history. 100-150 words 
 
-{% capture tamales_labor_text %}
+{% capture Removal_Chinese_text %}
 I'm not really sure why we are capturing the text here. 
 {% endcapture %}
 
 {% include images/figure-wrap.html
-  image-path="images/carousel_1.jpg"
+  image-path="images/Concerns_Raton.jpg"
   image-position="left"
-  image-width="45%"
-  caption="Insert your caption for Image B here."
-  text=tamales_labor_text
+  image-width="60%"
+  caption="Insert your caption for Image B here. [Source: Insert brief source here, e.g. Las Vegas Gazette] (Month day, year, page number.)"
+  text=Removal_Chinese 
 %}
 
 ## Subheader 3 
