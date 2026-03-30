@@ -1,9 +1,9 @@
 ---
 title: "Title of HIS 1105 project"
-author: "Please type your name here"
+author: Your name
 layout: scrollstory
-header-image: images/Raton 1882.jpg
-thumbnail: images/Raton 1882.jpg
+header-image: images/Raton_1882.jpg
+thumbnail: images/Raton_1882.jpg
 summary: One sentence summary of your project 
 ---
 
@@ -21,7 +21,7 @@ Introduce the reader to the key events, issues, and actors (WHEN WHERE WHO WHAT)
   image-path="images/Raton_let_the_boycotters_kill_them.jpg"
   image-position="right"
   image-width="48%"
-  caption="The Silver City Enterprise editorial questioned why some Raton residents would protect the Chinese." [Source: Sierra County Advocate](January 23, 1886, 2.)
+  caption="The Silver City Enterprise editor questioned why some Raton residents would protect the Chinese." [Source: Sierra County Advocate](January 23, 1886, 2.)
 %}
 
 {% include typography/pullquote.html text="\"You may divide your text by inserting a direct quote from a primary or secondary source here that highlights why this event is newsworthy\"" %}
