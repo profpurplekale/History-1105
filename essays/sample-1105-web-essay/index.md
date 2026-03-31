@@ -37,7 +37,7 @@ You may divide your text by inserting a pull from a primary or secondary source 
 Here's why this event relates to Asian American and Pacific Islander (AAPI) history: Insert your text that explains how this specific event relates to to the history of the ethnic group AND AAPI history. 100-150 words 
 
 {% capture Removal_Chinese_text %}
-The coding for this section positions this text in relation to the image. *The Las Vegas Gazette* expressed confidence that the town of Raton will be able to succesfully remove Chinese settlers without violence on the part of the Knights of Labor.  
+The coding for this section positions this text in relation to the image. *The Las Vegas Gazette* expressed confidence that the town of Raton  succesfully would remove Chinese settlers without the Knights of Labor committing acts of violence.  
 {% endcapture %}
 
 {% include images/figure-wrap.html
