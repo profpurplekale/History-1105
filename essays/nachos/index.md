@@ -39,11 +39,6 @@ As nachos spread northward into Texas, California, and eventually everywhere, th
 
 What followed was ingredient proliferation. Some added beans. Some added meat. Some added sour cream, guacamole, salsa, olives, onions. Each region, each restaurant, each home cook claimed their version was the *real* nacho.
 
-This is where the Nacho Wars began.
-
-{% assign images_list = "images/carousel_1.jpg,images/carousel_2.jpg,images/carousel_3.jpg" | split: ',' %}
-{% include images/carousel.html id="nacho-variations" images=images_list %}
-
 **The variations tell a story about American food culture itself:**
 - The loaded nacho (everything on it) represents American maximalism.
 - The minimalist nacho (cheese only) represents purist nostalgia.
