@@ -14,7 +14,9 @@ Introduce the reader to the key events, issues, and actors (WHEN WHERE WHO WHAT)
 
 ## Subheader 1
 
-150-200 words:  Explain why this event was newsworthy, drawing upon specific language or descriptions in the primary sources as citing any secondary sources to support your interpretation about why this event was newsworthy at the time it took place. 
+150-200 words:  Explain why this event was newsworthy, drawing upon specific language or descriptions in the primary sources as citing any secondary sources to support your interpretation about why this event was newsworthy at the time it took place.[^youchoose] 
+
+[^youchoose]:Author-first-name Author-last-name, *Title-in-italics* (Publisher:Year), page-number.
 
 
 {% include images/figure-wrap.html
