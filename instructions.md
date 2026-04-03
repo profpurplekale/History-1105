@@ -74,7 +74,7 @@ Your site is now building! This takes about 1-2 minutes.
 class="info"
 title="Two Important URLs to Bookmark in your browser"
 text="
-- **Repository** (where you edit): `http://github.com/YOUR-USERNAME/YOUR-USERNAME.github.io/History-1105`
+- **Repository** (where you edit): `http://github.com/YOUR-USERNAME/History-1105`
 - **Website** (what the world sees): `https://YOUR-USERNAME.github.io/History-1105`
 "
 %}
@@ -115,15 +115,15 @@ Your project needs its own folder. Here's how:
 
 1. In the VS Code sidebar, find the `essays/` folder
 2. Right-click on `essays/` and select **"New Folder"**
-3. Name your folder using **snake_case** (lowercase with underscores, no spaces)
-   - ✅ Good examples: `great_fermentation_debate`, `pigeon_conspiracy`, `hot_dog_sandwich`
+3. Name your folder using **kebab-case** (lowercase with hyphens, no spaces)
+   - ✅ Good examples: `great-fermentation-debate`, `pigeon-conspiracy`, `hot-dog-sandwich`
    - ❌ Bad examples: `Great Fermentation Debate` (spaces), `GreatFermentationDebate` (no underscores)
 4. Press Enter to create the folder
 
 **What your folder structure will look like:**
 ```
 essays/
-├── your_project_name/
+├── your-project-name/
 │   ├── images/           (create this next)
 │   └── index.md          (create this next)
 ```
@@ -133,7 +133,7 @@ essays/
 
 Inside your new project folder, you need a folder for images:
 
-1. Right-click on your new folder (e.g., `your_project_name/`)
+1. Right-click on your new folder (e.g., `your-project-name/`)
 2. Select **"New Folder"**
 3. Name it `images`
 4. Press Enter
@@ -190,17 +190,6 @@ Below the `---` lines, replace the sample content with your own writing, analysi
 - Make names **descriptive** (e.g., `stage-setup.jpg` instead of `photo1.jpg`)
 
 
-## Understanding the Layout
-
-When you look at a sample project, you'll see different "layout" options at the top:
-
-- **`layout: base`** — Simple, clean page with navigation and footer
-- **`layout: scrollstory`** — Fancy scrolling effects with background images (more advanced!)
-- **`layout: map`** — If your project involves a map or spatial elements
-
-Start with `layout: base` unless your instructor specifies otherwise.
-
-
 ## Editing Your Files
 
 ### How to Make Changes
@@ -208,8 +197,8 @@ Start with `layout: base` unless your instructor specifies otherwise.
 1. Open VS Code in your browser (press `.` key)
 2. Click the file you want to edit in the left sidebar
 3. Type to make changes
-4. Press **Ctrl+S** (or **Cmd+S** on Mac) to save
-5. Your changes appear on your website automatically!
+4. To publish your changes, click on the flowchart icon on the left
+5. Add a message and then click the checkmark button
 
 
 ### Using Markdown
