@@ -30,6 +30,64 @@ hr {
 
 **Welcome!** This page guides you through setting up your own project folder in this class project template. Once you've created your folder and added your first page, **you can delete this file**—it's just here to help you get started.
 
+## Quick Start: Your First Steps
+
+### Step 1: Get the Template
+
+Rather than start from scratch, you'll copy a complete starter template with example content.
+
+1. Go to the <a href="https://github.com/profpurplekale/History-1105">template repository</a>
+2. Click the green **"Use this Template"** button (upper right)
+3. Select **"Create a new repository"** from the dropdown
+
+---
+
+## Step 2: Name Your Repository
+
+Name your repository **History-1105**
+
+Click the green **"Create Repository"** button.
+
+---
+
+
+## Step 3: Publish Your Site
+
+Now tell GitHub to turn your files into a live website.
+
+1. Click the **"Settings"** tab (top right)
+2. Click **"Pages"** in the left sidebar
+3. Under "Build and deployment":
+   - **Source:** Make sure "Deploy from a branch" is selected
+   - **Branch:** Change from "None" to **"main"**
+4. Click **"Save"**
+
+Your site is now building! This takes about 1-2 minutes.
+
+**To see your live site:**
+1. Click the **"Actions"** tab (top of page) to watch the build
+2. When the yellow dot turns green, your site is live
+3. Go back to **Settings → Pages** and you'll see your website URL
+
+
+{% include typography/alert.html
+class="info"
+title="Two Important URLs to Bookmark in your browser"
+text="
+- **Repository** (where you edit): `http://github.com/YOUR-USERNAME/YOUR-USERNAME.github.io/History-1105`
+- **Website** (what the world sees): `https://YOUR-USERNAME.github.io/History-1105`
+"
+%}
+
+---
+
+## Your site is live
+
+You now have a website on the open web, built from plain text files under your control. Every change you make is versioned---you can always undo mistakes---and the whole thing runs on infrastructure that's free, open, and not going anywhere.
+
+This is the same workflow professional developers use daily. The tools are just text files and version control---nothing proprietary, nothing you can't take with you.
+
+
 ## What You Have
 
 Your instructor has already set up this template with:
@@ -38,7 +96,7 @@ Your instructor has already set up this template with:
 - An **essays folder** structure where you'll add your own project
 - All the styling and design already done for you
 
-## Quick Start: Your First Steps
+## Steps for Editing
 
 ### Step 1: Open the Code Editor in Your Browser
 
