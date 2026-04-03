@@ -62,7 +62,9 @@ Use this section to explain how this event relates to New Mexico history. What d
 
 
 
-{% include typography/pullquote.html text="\"The most important thing about tamales isn't the recipe. It's the hands that made them. Whose recipe? Whose tradition? Whose labor? These are the questions that matter.\"" %}
+{% include typography/pullquote.html text="\"Racial violence against the Chinese relied on the power of surprise. The Chinese did not know when threats would turn to violence, what form the violence would take, or when it would end. \"" %} [^youchoose3]
+
+[^youchoose3]:Beth Lew-Williams, *The Chinese Must Go: Violence, Exclusion, and the Making of the Alien in America* (Harvard University Press, 2018), 93.
 
 If you inserted a direct quote, you may complete the rest of your text for section 3 here. 
 
