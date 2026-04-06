@@ -44,7 +44,7 @@ The coding for this section positions this text in relation to the image. *The L
   image-path="images/Concerns_Raton.jpg"
   image-position="left"
   image-width="70%"
-  caption="Insert your caption for Image B here. [Source: Insert brief source here, e.g. Las Vegas Gazette] (Month day, year, page number.)"
+  caption="Insert your caption for Image B here. [Source: Insert brief source here, e.g. Las Vegas Gazette] (Month day, year, page number. (website address URL if applicable))"
   text=Removal_Chinese_text 
 %}
 
@@ -56,7 +56,7 @@ Use this section to explain how this event relates to New Mexico history. What d
   image-path="images/Chinese_leave_Raton.jpg"
   image-position="center"
   image-width="70%"
-  caption="Insert your caption for Image C here. At least a few Chinese settlers left not only Raton but the state of New Mexico in response to pressure from the Knights of Labor. [Source: Las Vegas Gazette] (December 13, 1882, 4.)"
+  caption="Insert your caption for Image C here. At least a few Chinese settlers left not only Raton but the state of New Mexico in response to pressure from the Knights of Labor. [Source: Las Vegas Gazette, December 13, 1882, 4.]"
   text=Chinese_leave_Raton_text 
 %}
 
@@ -64,9 +64,9 @@ Use this section to explain how this event relates to New Mexico history. What d
 
 {% include typography/pullquote.html text="\"Racial violence against the Chinese relied on the power of surprise. The Chinese did not know when threats would turn to violence, what form the violence would take, or when it would end.\""%}
 
-[^youchoose3]:Beth Lew-Williams, *The Chinese Must Go: Violence, Exclusion, and the Making of the Alien in America* (Harvard University Press, 2018), 93.
+[^youchoose3]:Beth Lew-Williams, *The Chinese Must Go: Violence, Exclusion, and the Making of the Alien in America* (Harvard University Press, 2018) 93.
 
-If you inserted a direct quote, you may complete the rest of your text for section 3 here. 
+If you inserted a direct quote as a pull quote, you cite the source in the text following the pull quote:  The above quote by historian Beth Lew-Williams [^youchoose3] helps to explain why a couple of Chinese residents of Raton chose to leave immediately.  Highly publicized anti-Chinese violence that pushed out Chinese residents in Tacoma, Washington and Rock Springs, Wyoming earlier in the year undoubtedly contributed to regime of terror for Chinese throughout the western and southwestern United States. 
 
 ## Concluding Subheader 4:
 
