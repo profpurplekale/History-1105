@@ -4,7 +4,7 @@ author: Gabriel Muehleisen
 layout: scrollstory
 header-image: images/men-in-camp.jpg
 thumbnail: images/men-in-camp.jpg
-summary: One sentence summary of your project 
+summary: I'm seeking to explore how New Mexicans reacted to the internment of Japanese Americans.
 ---
 
 # NM's reactions to Japanese Internemnt
